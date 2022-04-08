@@ -12,3 +12,8 @@ In this project, we also practiced making a function to create the dataframes as
 ![image](https://user-images.githubusercontent.com/85581208/162497318-77c4fa67-2e4b-4d9c-8b8c-87870603ee86.png)
 
 
+
+![image](https://user-images.githubusercontent.com/85581208/162497497-67045c03-a57f-4a22-b960-aa9dba958c81.png)
+
+
+
