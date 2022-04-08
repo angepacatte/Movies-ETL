@@ -7,3 +7,8 @@ In this project we also practiced making a function to create the dataframes as 
 
 ![image](https://user-images.githubusercontent.com/85581208/162497189-d8dbc241-c56a-4025-bd63-d25ccf8ef879.png)
 
+
+
+![image](https://user-images.githubusercontent.com/85581208/162497318-77c4fa67-2e4b-4d9c-8b8c-87870603ee86.png)
+
+
